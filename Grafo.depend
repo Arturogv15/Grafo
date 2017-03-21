@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1490118999 source:c:\users\arturo\desktop\grafo\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1490121424 source:c:\users\arturo\desktop\grafo\src\grafo.cpp
+	"Grafo.h"
+
+1490121021 c:\users\arturo\desktop\grafo\include\grafo.h
+	<iostream>
+	"Tipo.h"
+
+1490029764 c:\users\arturo\desktop\grafo\include\tipo.h
+
+1490118881 source:c:\users\arturo\desktop\grafo\src\tipo.cpp
+	"Tipo.h"
+
